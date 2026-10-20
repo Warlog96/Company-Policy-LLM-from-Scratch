@@ -1,0 +1,21 @@
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+
+# Model checkpoints and training outputs
+checkpoints/
+
+# Dataset (keep locally)
+data/
+
+# Generated files
+logs/
+.pytest_cache/
+.DS_Store
+
+# Secrets
+.env
+.env.*
+!.env.example

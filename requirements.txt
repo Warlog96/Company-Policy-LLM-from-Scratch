@@ -1,0 +1,8 @@
+torch
+numpy
+fastapi
+uvicorn
+streamlit
+requests
+matplotlib
+pytest
